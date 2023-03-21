@@ -13,9 +13,8 @@
 2. [fleek.linjiangyu.com](https://fleek.linjiangyu.com/)🍰
 3. [netlify.linjiangyu.com](https://netlify.linjiangyu.com/)🍨
 4. [cloudflare.linjiangyu.com](https://cloudflare.linjiangyu.com/)🍨
-#
+  #
 ## GAME
 #### 什么原来你也玩原神
-# 
 ![原](https://cdn1.tianli0.top/gh/linjiangyu2/halo/img/ys.jpg)
-# 
+---

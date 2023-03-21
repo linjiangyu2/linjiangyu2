@@ -28,7 +28,7 @@ Hi, I'm [Tianlin](https://www.linjiangyu.com/personal/about/), a student, blogge
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://readme.linjiangyu.com/api/pin/?username=linjiangyu2&repo=K" width=auto />
 </a>
-## BLOG there<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+## BLOG there
 1. [linjiangyu.com](https://linjiangyu.com/)🍧
 2. [fleek.linjiangyu.com](https://fleek.linjiangyu.com/)🍰
 3. [netlify.linjiangyu.com](https://netlify.linjiangyu.com/)🍨

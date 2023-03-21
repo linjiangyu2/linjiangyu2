@@ -9,9 +9,9 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=linjiangyu2&show_icons=true&theme=radical)<img src="https://cdn1.tianli0.top/gh/linjiangyu2/halo/img/code.gif" width="280px" height='200px'></img>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linjiangyu2&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=linjiangyu2&repo=K" />
-</a> -->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=linjiangyu2&repo=K" width=auto />
+</a>
 ## Tianlin’s skill
 ![](https://img.shields.io/badge/Linux-RedHat-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=ff0066)
 ![](https://img.shields.io/badge/Linux-CentOS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=ffffe5)

@@ -1,7 +1,7 @@
 ## Hi there <img src="https://cdn1.tianli0.top/gh/linjiangyu2/halo/img/wave.gif" width="30px">
 嗨，我是 [Tianlin](https://www.linjiangyu.com/personal/about/)，是一名学生、博主、运维工程师😄
 
-💖喜欢开源工作和看动漫漫画和轻小说👀
+💖喜欢开源工作和看动漫漫画、轻小说👀
 
 💡热衷于做改善体验或与动漫相关的项目
 
@@ -9,7 +9,7 @@
 # 
 Hi, I'm [Tianlin](https://www.linjiangyu.com/personal/about/), a student, blogger, operation and maintenance engineer 😄
 
-💖 Enjoys working open source and watching anime, manga and light novels 👀
+💖 Enjoys open source work and watching anime manga, light novels 👀
 
 💡 Passionate about doing projects that improve the experience or anime
 

@@ -6,6 +6,14 @@
 💡热衷于做改善体验或与动漫相关的项目
 
 ⚡总是在好奇心的驱使下学习一些很酷的技术😎
+# 
+Hi, I'm Tianlin, a student, blogger, operation and maintenance engineer 😄
+
+💖 Enjoys working open source and watching anime 👀
+
+💡 Passionate about doing projects that improve the experience or anime
+
+⚡ Always driven by curiosity to learn some cool techniques 😎
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=linjiangyu2&show_icons=true&theme=radical)<img src="https://cdn1.tianli0.top/gh/linjiangyu2/halo/img/code.gif" width="280px" height='200px'></img>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linjiangyu2&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

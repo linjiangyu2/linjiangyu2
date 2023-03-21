@@ -1,3 +1,9 @@
+<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
+
+<p align="center">
+        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
+
 ## Hi there <img src="https://cdn1.tianli0.top/gh/linjiangyu2/halo/img/wave.gif" width="30px">
 嗨，我是 [Tianlin](https://www.linjiangyu.com/personal/about/)，是一名学生、博主、运维工程师😄
 
@@ -20,7 +26,7 @@ Hi, I'm [Tianlin](https://www.linjiangyu.com/personal/about/), a student, blogge
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://readme.linjiangyu.com/api/pin/?username=linjiangyu2&repo=K" width=auto />
 </a>
-## BLOG there
+## BLOG there<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 1. [linjiangyu.com](https://linjiangyu.com/)🍧
 2. [fleek.linjiangyu.com](https://fleek.linjiangyu.com/)🍰
 3. [netlify.linjiangyu.com](https://netlify.linjiangyu.com/)🍨

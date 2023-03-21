@@ -8,6 +8,10 @@
 ⚡总是在好奇心的驱使下学习一些很酷的技术😎
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=linjiangyu2&show_icons=true&theme=radical)
+## FROM Tianlin’s skill
+![运维常用发行版](https://img.shields.io/badge/Linux-RedHat-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=ff0066)
+![运维常用发行版](https://img.shields.io/badge/Linux-CentOS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=ffffe5)
+![运维常用发行版](https://img.shields.io/badge/Linux-RockyLinux-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ## BLOG there
 1. [linjiangyu.com](https://linjiangyu.com/)🍧
 2. [fleek.linjiangyu.com](https://fleek.linjiangyu.com/)🍰

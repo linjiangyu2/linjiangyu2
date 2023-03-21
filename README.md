@@ -28,7 +28,7 @@ Hi, I'm [Tianlin](https://www.linjiangyu.com/personal/about/), a student, blogge
 ![](https://img.shields.io/badge/CloudNative-Docker-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=3333ff)
 ![](https://img.shields.io/badge/Ops-Nginx-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=b3ffcc)
 ![](https://img.shields.io/badge/Ops-Apache-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=ffff80)
-![](https://img.shields.io/badge/Ops-Tomcat-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=ffffff)
+![](https://img.shields.io/badge/Ops-Tomcat-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=C3C0C0)
 ![](https://img.shields.io/badge/Ops-MySQL-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Ops-Redis-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=ff3333)
 ![](https://img.shields.io/badge/Ops-mongodb-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=ffff80)

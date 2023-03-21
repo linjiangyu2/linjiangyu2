@@ -20,6 +20,12 @@ Hi, I'm [Tianlin](https://www.linjiangyu.com/personal/about/), a student, blogge
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=linjiangyu2&repo=K" width=auto />
 </a>
+## BLOG there
+1. [linjiangyu.com](https://linjiangyu.com/)🍧
+2. [fleek.linjiangyu.com](https://fleek.linjiangyu.com/)🍰
+3. [netlify.linjiangyu.com](https://netlify.linjiangyu.com/)🍨
+4. [cloudflare.linjiangyu.com](https://cloudflare.linjiangyu.com/)🍨
+# 
 ## Tianlin’s skill
 ![](https://img.shields.io/badge/Linux-RedHat-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=ff0066)
 ![](https://img.shields.io/badge/Linux-CentOS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=ffffe5)
@@ -36,12 +42,6 @@ Hi, I'm [Tianlin](https://www.linjiangyu.com/personal/about/), a student, blogge
 ![](https://img.shields.io/badge/Monitor-Zabbix-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=ff5c33)
 ![](https://img.shields.io/badge/Storage-Ceph-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=ffcc80)
 ![](https://img.shields.io/badge/Grid-Consul-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=ff80df)
-## BLOG there
-1. [linjiangyu.com](https://linjiangyu.com/)🍧
-2. [fleek.linjiangyu.com](https://fleek.linjiangyu.com/)🍰
-3. [netlify.linjiangyu.com](https://netlify.linjiangyu.com/)🍨
-4. [cloudflare.linjiangyu.com](https://cloudflare.linjiangyu.com/)🍨
-  #
 ## GAME
 #### 什么原来你也玩原神
 ![原](https://cdn1.tianli0.top/gh/linjiangyu2/halo/img/ys.jpg)

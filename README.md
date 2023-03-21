@@ -1,5 +1,5 @@
 ## Hi there <img src="https://cdn1.tianli0.top/gh/linjiangyu2/halo/img/wave.gif" width="30px">
-嗨，我是 Tianlin，是一个学生、博主、运维工程师😄
+嗨，我是 Tianlin，是一名学生、博主、运维工程师😄
 
 💖喜欢开源工作和看动漫👀
 

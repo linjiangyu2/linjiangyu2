@@ -6,6 +6,7 @@
 💡热衷于做改善体验或与动漫相关的项目
 
 ⚡总是在好奇心的驱使下学习一些很酷的技术😎
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=linjiangyu2)](https://github.com/anuraghazra/github-readme-stats)
 
 ## BLOG there
 1. [linjiangyu.com](https://linjiangyu.com/)🍧

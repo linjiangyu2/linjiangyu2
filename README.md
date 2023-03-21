@@ -15,10 +15,10 @@ Hi, I'm [Tianlin](https://www.linjiangyu.com/personal/about/), a student, blogge
 
 ⚡ Always driven by curiosity to learn some cool techniques 😎
 
-![Anurag's GitHub stats](https://readme-8m79mgluj-linjiangyu2.vercel.app/api?username=linjiangyu2&show_icons=true&theme=radical)<img src="https://cdn1.tianli0.top/gh/linjiangyu2/halo/img/code.gif" width="280px" height='200px'></img>
-[![Top Langs](https://readme-8m79mgluj-linjiangyu2.vercel.app/api/top-langs/?username=linjiangyu2&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://readme.linjiangyu.com/api?username=linjiangyu2&show_icons=true&theme=radical)<img src="https://cdn1.tianli0.top/gh/linjiangyu2/halo/img/code.gif" width="280px" height='200px'></img>
+[![Top Langs](https://readme.linjiangyu.com/api/top-langs/?username=linjiangyu2&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://readme-8m79mgluj-linjiangyu2.vercel.app/api/pin/?username=linjiangyu2&repo=K" width=auto />
+  <img src="https://readme.linjiangyu.com/api/pin/?username=linjiangyu2&repo=K" width=auto />
 </a>
 ## BLOG there
 1. [linjiangyu.com](https://linjiangyu.com/)🍧

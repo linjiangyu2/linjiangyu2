@@ -7,7 +7,7 @@
 
 ⚡总是在好奇心的驱使下学习一些很酷的技术😎
 # 
-Hi, I'm Tianlin, a student, blogger, operation and maintenance engineer 😄
+Hi, I'm [Tianlin](https://www.linjiangyu.com/personal/about/), a student, blogger, operation and maintenance engineer 😄
 
 💖 Enjoys working open source and watching anime 👀
 

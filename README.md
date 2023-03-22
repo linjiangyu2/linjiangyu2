@@ -14,6 +14,7 @@
 💡热衷于做改善体验或与动漫相关的项目
 
 ⚡总是在好奇心的驱使下学习一些很酷的技术😎
+
 # 
 Hi, I'm [Tianlin](https://www.linjiangyu.com/personal/about/), a student, blogger, operation and maintenance engineer 😄
 
@@ -25,9 +26,10 @@ Hi, I'm [Tianlin](https://www.linjiangyu.com/personal/about/), a student, blogge
 
 ![Anurag's GitHub stats](https://readme.linjiangyu.com/api?username=linjiangyu2&show_icons=true&theme=radical)<img src="https://cdn1.tianli0.top/gh/linjiangyu2/halo/img/code.gif" width="280px" height='200px'></img>
 [![Top Langs](https://readme.linjiangyu.com/api/top-langs/?username=linjiangyu2&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<a href="https://github.com/anuraghazra/github-readme-stats">
+[![stackoverflow card](https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=18821000)](https://github.com/harish-sethuraman/readme-components)
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://readme.linjiangyu.com/api/pin/?username=linjiangyu2&repo=K" width=auto />
-</a>
+</a> -->
 ## BLOG there
 1. [linjiangyu.com](https://linjiangyu.com/)🍧
 2. [fleek.linjiangyu.com](https://fleek.linjiangyu.com/)🍰

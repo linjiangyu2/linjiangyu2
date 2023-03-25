@@ -54,20 +54,20 @@ Hi, I'm [Tianlin](https://www.linjiangyu.com/personal/about/), a student, blogge
 ![](https://img.shields.io/badge/Monitor-Zabbix-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=ff5c33)
 ![](https://img.shields.io/badge/Storage-Ceph-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=ffcc80)
 ![](https://img.shields.io/badge/Grid-Consul-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=ff80df)
-## CONTENT ME
-<div align="center">
-  <img src="https://cdn1.tianli0.top/gh/linjiangyu2/halo/img/work.gif">
-</div>
+#
+### CONTENT ME
 <h3 align="center"></h3>
 </br>
-<div align="center">
-  <a href="https://www.linjiangyu.com/"><img src="https://img.shields.io/badge/BLOG-%E5%8D%9A%E5%AE%A2-brightgreen"></a>&emsp;
-  <a href="https://wpa.qq.com/msgrd?v=3&uin=2979509783&site=qq&menu=yes"><img src="https://img.shields.io/badge/Tencent-QQ-red"></a>&emsp;
-  <a href="https://space.bilibili.com/3493139975244746"><img src="https://img.shields.io/badge/Bilibili-B%E7%AB%99-ff69b4"></a>&emsp;
-  <a href="mailto:linjiangyu0702@linjiangyu.com"><img src="https://img.shields.io/badge/Email-邮箱-blue"></a>&emsp;
+    <div align="center">
+      <a href="https://www.linjiangyu.com/"><img src="https://img.shields.io/badge/BLOG-%E5%8D%9A%E5%AE%A2-brightgreen"></img></a>&emsp;
+      <a href="https://wpa.qq.com/msgrd?v=3&uin=2979509783&site=qq&menu=yes"><img src="https://img.shields.io/badge/Tencent-QQ-red"></img></a>&emsp;
+      <a href="https://space.bilibili.com/3493139975244746"><img src="https://img.shields.io/badge/Bilibili-B%E7%AB%99-ff69b4"></img></a>&emsp;
+      <a href="mailto:linjiangyu0702@linjiangyu.com"><img src="https://img.shields.io/badge/Email-邮箱-blue"></img></a>&emsp;
+    </div>
 </div>
+
+# 
 ## GAME
-#
 #### 什么原来你也玩原神
 ![原](https://cdn1.tianli0.top/gh/linjiangyu2/halo/img/ys.jpg)
 ---

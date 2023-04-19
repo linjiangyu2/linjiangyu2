@@ -24,7 +24,7 @@ Hi, I'm [Tianlin](https://www.linjiangyu.com/personal/about/), a student, blogge
 
 ⚡ Always driven by curiosity to learn some cool techniques 😎
 
-![Tianlin's GitHub stats](https://readme.linjiangyu.com/api?username=linjiangyu2&show_icons=true&theme=radical)<img src="https://cdn1.tianli0.top/gh/linjiangyu2/halo/img/code.gif" width="280px" height='200px'></img>
+![Tianlin's GitHub stats](https://readme.linjiangyu.com/api?username=linjiangyu2&show_icons=true&theme=radical)<img src="https://cdn1.tianli0.top/gh/linjiangyu2/halo/img/code.gif" width="280px" height='200px'></img> 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linjiangyu2&hide=shell,python,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3)](https://www.linjiangyu.com/)
 [![Top Langs](https://readme.linjiangyu.com/api/top-langs/?username=linjiangyu2&layout=compact)](https://www.linjiangyu.com/)
 <!-- [![stackoverflow card](https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=18821000)](https://github.com/harish-sethuraman/readme-components) -->

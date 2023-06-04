@@ -31,9 +31,12 @@ Hi, I'm [Tianlin](https://www.linjiangyu.com/personal/about/), a student, blogge
 
 ## BLOG there
 1. [linjiangyu.com](https://linjiangyu.com/)🍧
-2. [fleek.linjiangyu.com](https://fleek.linjiangyu.com/)🍰
-3. [netlify.linjiangyu.com](https://netlify.linjiangyu.com/)🍨
-4. [cloudflare.linjiangyu.com](https://cloudflare.linjiangyu.com/)🍨
+2. [alist.linjiangyu.com](https://alist.linjiangyu.com/)🥤
+3. [music.linjiangyu.com](https://music.linjiangyu.com/)🍬
+4. [ai.linjiangyu.com](https://ai.linjiangyu.com/)🍦
+5. [fleek.linjiangyu.com](https://fleek.linjiangyu.com/)🍰
+6. [netlify.linjiangyu.com](https://netlify.linjiangyu.com/)🍨
+7. [cloudflare.linjiangyu.com](https://cloudflare.linjiangyu.com/)🧃
 # 
 ## Tianlin’s skill
 ![](https://img.shields.io/badge/Linux-RedHat-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=ff0066)
